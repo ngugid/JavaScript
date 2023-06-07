@@ -33,6 +33,7 @@ var First_Name = "Snow"
 var Second_Name = "Alegra"
 console.log (Gender2 + " name is "  + First_Name + " " + Second_Name) ;
  */
+/*
 var x = 2
 var y = 5 
 var sum = x+y ;
@@ -43,3 +44,35 @@ var modulus = x%y ;
 console.log (modulus) ;
  
 Number.isInteger(x, y);
+*/
+
+
+//let name = "James";
+
+//name = "Matt";
+//console.log(name);
+
+//const name = Jamo
+/*
+let age = 118;
+
+if(age < 18) {
+    console.log("You are not eligible to vote")
+} else {
+    console.log("You are eligible to vote")
+}*/
+
+/*let number = 10;
+if(number > 10) {
+    console.log("Greater than Ten")
+}else {
+    console.log("Less than Ten")
+}
+*/
+let number = 47;
+
+if(number % 3 === 0){
+    console.log(number + " multiple of 3");
+    }else{
+        console.log(number + " not a multiple of 3");
+    }
