@@ -1,0 +1,17 @@
+* {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .button1 {
+    background-color:blueviolet;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 12px;
+    width: 12rem;
+    height: 70%;
+    border-end-start-radius: 1.2rem;
+    box-shadow: 30cqi;
+    border-bottom: 0.5cm;
+
+  }
+  .button1:hover {background-color: #3e8e41} 
