@@ -1,0 +1,11 @@
+* {
+    background-color: white;
+
+}
+
+#button1 {
+    background-color: yellow;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 5px;
+}
