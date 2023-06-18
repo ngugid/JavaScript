@@ -1,0 +1,49 @@
+* {
+    background-color: azure;
+    font-family: cursive;
+    font-style: oblique;
+    
+}
+h1 {
+    text-align: center;
+    color:indianred;
+  }
+  
+  #game {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .choices {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+   
+  }
+  
+  .choice1 {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 0 10px;
+    color: brown;
+  }
+
+  .choice2 {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 0 10px;
+  }
+
+  .choice3 {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 0 10px;
+    color: silver;
+  }
+  
+  #result {
+    font-size: 24px;
+    font-weight: bold;
+
+  }
+  
